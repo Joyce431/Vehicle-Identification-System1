@@ -1,6 +1,6 @@
 package joyce.vehicleidentificationsystem1;
 
-import javafx.animation.FadeTransition;
+import javafx.animation.FadeTransition; // after test
 import javafx.animation.ScaleTransition;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
