@@ -57,7 +57,7 @@ public class DashboardController {
 
     @FXML
     public void initialize() {
-        db = DatabaseManager.getInstance();
+        db = DatabaseManager.getInstance(); // database
 
         violationTypeCol.setCellValueFactory(new PropertyValueFactory<>("type"));
         fineAmountCol.setCellValueFactory(new PropertyValueFactory<>("fineAmount"));
