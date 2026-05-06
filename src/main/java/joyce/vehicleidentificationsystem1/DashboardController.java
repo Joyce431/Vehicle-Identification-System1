@@ -1,5 +1,5 @@
 package joyce.vehicleidentificationsystem1;
-
+//Dashboard 
 import javafx.animation.FadeTransition; // after test
 import javafx.animation.ScaleTransition;
 import javafx.event.ActionEvent;
